@@ -23,4 +23,8 @@ StackElementOption FixedPointMultiply(StackElement_t a, StackElement_t b);
 
 StackElementOption FixedPointDivide(StackElement_t a, StackElement_t b);
 
+StackElementOption FixedPointSin(StackElement_t a);
+
+StackElementOption FixedPointCos(StackElement_t a);
+
 #endif
